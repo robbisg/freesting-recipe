@@ -1,2 +1,5 @@
-# freesting-recipe
-This is the recipe of my town's typical Christmas dessert.
+# FREESTING RECIPE
+This is the recipe of my town's typical Christmas dessert, named FRUSTINGO!
+--
+## INGREDIENTS
+
