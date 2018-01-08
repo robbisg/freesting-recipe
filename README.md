@@ -1,9 +1,10 @@
-# FREESTING RECIPE
+# Ricetta Fristingo
 
-This is the recipe of my town's typical Christmas dessert, named FRUSTINGO!
+This is the recipe of my town's typical Christmas dessert, named FRISTINGO!
 I will provide also the same recipe in english (maybe!)
 
 ## Ingredienti 
+
 - Fichi secchi almeno 1.5 Kg
 - Vino cotto
 - Cioccolato fondente
@@ -11,8 +12,8 @@ I will provide also the same recipe in english (maybe!)
 - Una stecca di cannella
 - Vanillina
 - Noci, Mandorle, Pinoli e Nocciole
-- Cedro, Arancia e Ciliegie candite
-- Caffe in polvere e solubile
+- 1 o 2 Cedri, 1/2 Arancia e Ciliegie candite
+- Caffe in polvere e una caffettiera di caffè liquido
 - Ruhm per dolci
 - Anisetta, Sambuca o Mistrà
 - Un pizzico di sale
@@ -31,7 +32,7 @@ Le mandorle e i pinoli vanno tostate.
 
 Le noci, il cioccolato e la frutta candita vanno tritati.
 
-Tutti gli ingredienti vengono poi messi in un recipiente molto grande e va mischiato il composto unendo olio e farina quanto basta.
+Tutti gli ingredienti vengono poi messi in un recipiente molto grande e va mischiato il composto unendo olio e farina quanto basta, anche gli altri ingredienti possono essere aggiunti a mano a mano se il gusto del composto non ci piace!
 
 Il composto una volta ben compatto va inserito in dei recipienti e messo a cuocere in forno per 2 ore a 180 gradi.
 
